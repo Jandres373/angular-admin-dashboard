@@ -1,0 +1,21 @@
+.home_container {
+
+  .user_area {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+
+    p {
+      font-weight: 700;
+      font-size: 1.4rem;
+      color: gray;
+    }
+
+    img {
+      width: 100px;
+      aspect-ratio: 1;
+      border-radius: 100%;
+    }
+  }
+}

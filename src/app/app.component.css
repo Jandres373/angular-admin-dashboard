@@ -1,0 +1,9 @@
+.title_container {
+  h1 {
+    color: red;
+  }
+
+  span {
+    color: blue
+  }
+}
